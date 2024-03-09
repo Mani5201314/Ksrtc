@@ -1,0 +1,182 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+
+
+#z{
+    margin-top:1%;
+    margin-left: 7%;
+}
+#y{
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    top: 7%;
+    left:44%;
+}
+#x{
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    top: 7%;
+    left:50%;
+}
+#carousel{
+    position: absolute;
+    top:19.6%;
+    width: 100%;
+    height: 80%;
+}
+#w{
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    top: 7%;
+    left:56%;
+}
+#v{
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    top: 7%;
+    left:62%;
+}
+#u{
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    top: 7%;
+    left:67%;
+}
+#t{
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    top: 7%;
+    left:73%;
+}
+#s{
+    height: 40px;
+    width: 40px;
+    position:absolute;
+    top: 7%;
+    left:79%;
+}
+#r{
+    border-radius: 50%;
+    height: 110px;
+    width: 150px;
+    position:absolute;
+    top: 5%;
+    left:85%;
+}
+#q{
+    position:absolute;
+    top: 14%;
+    left:43.5%;
+}
+.x{
+    position:absolute;
+    top: 7%;
+    left:145%;
+}
+.w{
+    position:absolute;
+    top: 4%;
+    left:265%;
+}
+.v{
+    position:absolute;
+    top: 4%;
+    left:390%;
+}
+.u{
+    position:absolute;
+    top: 4%;
+    left:497%;
+}
+.t{
+    position:absolute;
+    top: 4%;
+    left:610%;
+}
+.s{
+    position:absolute;
+    top: 4%;
+    left:750%;
+}
+
+
+
+#linkcolor:hover{
+    color:red;
+    font-size: 20px;
+}
+#table{
+    padding: left;
+}
+
+.home:hover{
+    color:darkturquoise;
+    font-size: 20px;
+}   
+
+#b:hover{
+    display: block;
+   font-size: 15px;
+   margin-left: auto;
+   font-size: 65%;
+}
+#sticky{
+    top: 5px;
+    background-color: rgb(233, 106, 9);
+    padding: 2px;
+}
+#sticky>a{
+    margin-left: 15px;
+} 
+.fixed{
+    border-radius: 50%;
+    position:absolute;
+    bottom: 28%;
+    left: 0;
+    width: 150px;
+}
+.hii{
+    border-radius: 50%;
+    position:absolute;
+    bottom: 30%;
+    left: 90%;
+    right: 0;
+}
+#q{
+    border-radius: 50%;
+}
+#w{
+    border-radius: 50%;
+}
+.hiii{
+    border-radius: 50%;
+    position:fixed;
+    bottom: 0;
+    right: 0%;
+}
+#prince{
+    position: sticky;
+    background-color: #173c62;
+    color: aliceblue;
+    padding: 40px;
+}
+#hlo{
+    position: sticky;
+    background-color:#173c62;
+    color: aliceblue;
+    padding: 40px;
+}
